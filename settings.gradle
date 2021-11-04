@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Recommand_for_eat"
