@@ -23,5 +23,7 @@ Google AdMob 기능을 연습하기 위해 만든 토이 프로젝트 입니다.
 GoogleAdmob 배너 광고를 보입니다.
 
 # **시연 영상**
+https://user-images.githubusercontent.com/43668299/142720333-e8c154e8-136e-4185-9c5a-408e247c6199.mp4
+
 
 
